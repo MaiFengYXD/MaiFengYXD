@@ -4,7 +4,7 @@ name: GitHub Metrics
 on:
   # Schedule daily updates
   # Note: GitHub Actions schedules run at most every 5 minutes using UTC time.
-  schedule: [{cron: "5 * * * *"}] # Runs at minute 5 of every hour UTC
+  schedule: [{cron: "0 * * * *"}] # Runs at minute 5 of every hour UTC
 
   # Allow manual run
   workflow_dispatch:
