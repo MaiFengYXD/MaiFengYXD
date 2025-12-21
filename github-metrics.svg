@@ -2336,7 +2336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>K3nD4rk-Code-Developer/Wave-Websocket-Execution</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A VS Code extension that executes Lua scripts in connected Roblox clients through WebSocket communication. Write and run scripts instantly without leaving your editor, with real-time console output and support for multiple clients.</div>
@@ -2779,7 +2779,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2025, 09:01:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2025, 11:22:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
