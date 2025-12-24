@@ -2322,7 +2322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Crazyblox/Penumbra</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>K3nD4rk-Code-Developer/Wave-Websocket-Execution</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A VS Code extension that executes Lua scripts in connected Roblox clients through WebSocket communication. Write and run scripts instantly without leaving your editor, with real-time console output and support for multiple clients.</div>
@@ -2766,7 +2766,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Dec 2025, 08:56:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2025, 10:49:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
